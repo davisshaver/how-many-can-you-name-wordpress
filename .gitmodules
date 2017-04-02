@@ -1,0 +1,3 @@
+[submodule "lib/how-many-can-you-name"]
+	path = lib/how-many-can-you-name
+	url = https://github.com/nydailynews/how-many-can-you-name
